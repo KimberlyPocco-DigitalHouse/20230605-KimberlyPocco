@@ -1,0 +1,6 @@
+# Comandos aprendidos en clases sobre Terminal 
+- ls: Sirve para listar
+- pwd: para ubicarte en la ruta absoluta de un directorio
+- mkdir: para crear directorios 
+- touch : para crear archivos 
+- cd: para cambiar de directorio

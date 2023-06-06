@@ -1,0 +1,4 @@
+# Partes internas de la computadora 
+- CPU: Es el cerebro de la computadora
+- RAM: Es la memoria de acceso aleatorio que almacena temporalmente datos de los programas en uso
+- ROM: Es la memoria de solo lectura que se encarga de dar instrucciones para el funcionamiento del sistema
