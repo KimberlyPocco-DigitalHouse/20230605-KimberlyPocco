@@ -1,0 +1,23 @@
+# Comandos utilizados en el examen
+touch comandos.txt main.js index.html
+git add .
+git commit -m "archivos creados de KimberlyPocco"
+git push origin main
+clear
+git checkout -b feature01
+git branch
+mkdir Terminal Hardware
+touch Terminal/resumen.txt Hardware/resumen.txt
+git add .
+git commit -m "carpetas y archivos creadas en feature01 de KimberlyPocco"
+git push origin feature01
+clear
+git checkout -b feature02
+git branch
+git add .
+git commit -m "listar nombre de comandos y partes hardware en  feature02 de KimberlyPocco"
+git push origin feature02
+clear
+git checkout main
+mv comandos.txt comandosUtilizados.txt
+history
